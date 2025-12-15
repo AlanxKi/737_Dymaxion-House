@@ -77,6 +77,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/STUDENT_Scenes/1203desert scene_terrace.unity
     guid: 499946ac4bffa9b4db5dfd39f7461b69
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/deckscene_4.unity
+    guid: bd2571b29a568404bbb1ce9521b21c37
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8ce81e0bf68ac3e4abd42d74b53a395e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 52eaa7aad8898ee4c8264272118be8eb, type: 2}
